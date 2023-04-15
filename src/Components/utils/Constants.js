@@ -15,7 +15,7 @@ export const links = [
         to: '/about'
     },
     {
-        linkName: 'Resume',
+        linkName: 'Skills',
         to: '/resume'
     },
     {
@@ -165,66 +165,66 @@ export const reviews = [
 
 export const Work = [
     {
-        image: '/ProjectImages/8f989c08-175f-40d6-9aab-62ca9fa23fef.png',
-        projectName: 'ROBY',
-        projectVercelLink: 'https://roby-web.vercel.app/',
-        About: '(HTML , CSS , JS , Tailwind CSS)',
+        image: '/images/Screenshot 2023-03-25 214627.png',
+        projectName: 'E-Commerce Store',
+        projectVercelLink: 'e-commerce-ten-delta.vercel.app',
+        About: '(HTML , CSS , JS , Responsive Media Query)',
         Aos: 'flip-right'
     },
     {
-        image: '/ProjectImages/7546b1e6-5b7e-451f-98e5-0cb9c35b9990.png',
-        projectName: 'Healthy Keepers',
-        projectVercelLink: 'https://healthy-keeperss.vercel.app/',
-        About: '(HTML , CSS , JS , SCSS)',
+        image: '/images/Screenshot 2023-03-25 215316.png',
+        projectName: 'Car Company',
+        projectVercelLink: 'car-company.vercel.app',
+        About: '(HTML , CSS , Responsive Bootstrap)',
         Aos: 'flip-left'
     },
     {
-        image: '/ProjectImages/im10.png',
-        projectName: 'Shoe E-commerce',
-        projectVercelLink: 'https://shop-website-nine.vercel.app/',
+        image: '/images/Screenshot 2023-04-13 052018.png',
+        projectName: 'Portfolio',
+        projectVercelLink: 'https://portfolio-two-rho-teal.vercel.app/',
+        About: '(React js , Material Ui , Responsive by Material Ui )',
+        Aos: 'flip-right'
+    },
+    {
+        image: '/images/Screenshot 2023-04-13 055001.png',
+        projectName: "Aisha's Portfolio",
+        projectVercelLink: 'https://otere-portfolio-react.vercel.app/',
+        About: '(React js , Wow js , Responsive by Bootstrap)',
+        Aos: 'flip-left'
+    },
+    {
+        image: '/images/Screenshot 2023-04-13 061349.png',
+        projectName: 'Khamsat',
+        projectVercelLink: 'https://khamsat-xi.vercel.app/',
         About: '(HTML , CSS)',
         Aos: 'flip-right'
     },
     {
-        image: '/ProjectImages/c9684089-4b84-4bb8-91e3-661666cb367f.png',
-        projectName: 'Delivery',
-        projectVercelLink: 'https://responsive-website-delivery-main.vercel.app/',
-        About: '(HTML , CSS , JS , SCSS)',
+        image: '/images/Screenshot 2023-04-13 062341.png',
+        projectName: 'Gaco',
+        projectVercelLink: 'https://landscaping-eta.vercel.app/',
+        About: '(HTML , CSS , Js)',
         Aos: 'flip-left'
     },
     {
-        image: '/ProjectImages/im2.png',
-        projectName: 'Noon E-Commerce',
-        projectVercelLink: 'https://noon-web.vercel.app/',
-        About: '(HTML , CSS , JS)',
+        image: '',
+        projectName: '',
+        projectVercelLink: '',
+        About: '',
         Aos: 'flip-right'
     },
     {
-        image: '/ProjectImages/339b6097-d1fc-4508-a15b-ee9d40dbad72.png',
-        projectName: 'PLANTEX',
-        projectVercelLink: 'https://plantex-eosin.vercel.app/',
-        About: '(HTML , CSS , JS , SCSS)',
+        image: '',
+        projectName: '',
+        projectVercelLink: '',
+        About: '',
         Aos: 'flip-left'
     },
     {
-        image: '/ProjectImages/im9.png',
-        projectName: 'TimeZone',
-        projectVercelLink: 'https://watchs-six.vercel.app/',
-        About: '(HTML , CSS)',
-        Aos: 'flip-right'
-    },
-    {
-        image: '/ProjectImages/im6.png',
-        projectName: 'Sushi',
-        projectVercelLink: 'https://sushhi.vercel.app/',
-        About: '(HTML , CSS , JS)',
-        Aos: 'flip-left'
-    },
-    {
-        image: '/ProjectImages/im7.png',
-        projectName: 'EleCar',
-        projectVercelLink: 'https://car-lovat.vercel.app/##',
-        About: '(HTML , CSS , JS)',
+        image: '',
+        projectName: '',
+        projectVercelLink: '',
+        About: '',
         Aos: 'flip-right'
     },
 ]

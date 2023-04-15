@@ -20,7 +20,7 @@ const Sidebar = () => {
           padding: '30px 0',
           textAlign: 'center'
         }}>
-          <img src='/images/Hamza Name Tattoo Designs.png' style={{
+          <img src="/images/Hamza's logo.png" style={{
             width: '80%',
             border: '8px solid #2e344e',
             borderRadius: '65%'
